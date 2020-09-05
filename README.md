@@ -1,6 +1,6 @@
-# Arquivo com minhas configurações pessoais para o  neovim/spacevim
+# Configurações pessoais para o neovim/spacevim
 
-# Exemplo de como adicionar um plugin customizado. Adicionando o wakatime/vim-wakatime 
+* Exemplo de como adicionar um plugin customizado. Adicionando o wakatime/vim-wakatime 
 
 ```yaml=
 [[custom_plugins]]
