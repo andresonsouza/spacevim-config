@@ -35,7 +35,7 @@ name = 'shell'
 default_position = 'top'
 default_height = 30
 
-# This is an example for adding custom plugins lilydjwg/colorizer
+# This is an example for adding custom plugins wakatime/vim-wakatime
 [[custom_plugins]]
 repo = "wakatime/vim-wakatime"
 merged = false
